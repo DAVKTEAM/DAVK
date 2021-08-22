@@ -219,9 +219,9 @@ print("\27[36m"..[[
 |   | |_| |  __/\ V /|  __/| | | (_) >  <   |
 |   |____/ \___| \_/ |_|   |_|  \___/_/\_\  |
 |-------------------------------------------|
-|This Source Was Developed By (ABS) @IQ_ABS.|
-|  This Is The Source Channel @Dev_Prox .   |
-|               - DevProx -                 |
+|This Source Was Developed By (Abd) @eeeeeeB.|
+|  This Is The Source Channel @HMBot .   |
+|               - DAVK -                 |
 ---------------------------------------------
 ]]..'\27[m')
 Config = dofile("config.lua")
